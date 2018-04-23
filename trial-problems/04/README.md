@@ -1,0 +1,1 @@
+Implement your own Telegram bot, which converts old kazakh alphabet to new one. 
